@@ -1,0 +1,1 @@
+price_violin <- qplot(data = diamonds, y = price, x =color, geom = "violin")

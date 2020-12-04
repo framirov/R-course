@@ -1,0 +1,1 @@
+row_max <- apply(my_df, MARGIN = 1, FUN = max)

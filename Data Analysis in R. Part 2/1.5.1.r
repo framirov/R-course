@@ -1,0 +1,1 @@
+d <- slice(diamonds, (1:27000) * 2 - 1)
