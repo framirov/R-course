@@ -1,0 +1,1 @@
+mini_mtcars <- rbind(mtcars[3,], mtcars[7,], mtcars[10,], mtcars[12,], mtcars[32,])

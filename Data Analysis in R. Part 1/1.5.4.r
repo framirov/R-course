@@ -1,0 +1,1 @@
+fixed_vector <- replace(my_vector, is.na(my_vector), mean(my_vector, na.rm = T))

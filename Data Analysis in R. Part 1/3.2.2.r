@@ -1,0 +1,1 @@
+model <-  lm(wt ~ mpg +  disp + hp, mtcars)
